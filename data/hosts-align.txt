@@ -1,0 +1,160 @@
+>WP_018307807.1/1-103 MULTISPECIES: DUF2312 domain-containing protein [Acetobacter]
+MS-DVPFD-----------IDDDAA-------------ASRAR----------QAADPESNVGGIAADRLRS
+IIERVERLEEERKALAGDIKDIFSEAKSAGFDVATIKQILRLRKKEPSEIEEQETLLDIYKRALGM------
+----
+>WP_006314683.1/1-85 MULTISPECIES: DUF2312 domain-containing protein [Hyphomicrobiales]
+-------------------MMDE-----------------------------------TSTTETVAAAELRQ
+FIERVERLEEEKAAIQGDIKDVMGEAKGRGYDTKAIRTIIRLRKKDANERIEEETILQTYMAALGME-----
+----
+>WP_015989315.1/1-82 MULTISPECIES: DUF2312 domain-containing protein [Azospirillum]
+-------------------M---------------------------------------SDVGEIAADRLKS
+FVERIERLEEEKSGLQEDIKEVYSEAKGTGFDVKIIRQIIRLRKMDKADRQEQRAILEMYEEALGMTE----
+----
+>WP_016841616.1/1-90 MULTISPECIES: DUF2312 domain-containing protein [Bradyrhizobium]
+-------------------MATTSA------------------------------AVKEEPATRFAKDQLKS
+IIERIERLEEEKKTISDDIRDVYAESKGNGFDVKALRAIIRLRKQDPNERQEQETILETYMQALGML-----
+----
+>WP_014492426.1/1-90 MULTISPECIES: DUF2312 domain-containing protein [Bradyrhizobium]
+-------------------MATSAA------------------------------VRDDEPATKFAKDQLKS
+IIERIERLEEEKKAISDDIRDVYAESKGNGYDVKALRTIVRMRKQDPNERAEAETILETYMQALGML-----
+----
+>WP_207825047.1/1-90 nucleoid-associated protein GapR [Brevundimonas pondensis]
+-------------------MTDTEF------------------------------DPASDVLTAAAQGRLRS
+IIERLERLEEDKDAILIDMKEVFAEAKGDGYDVKVLRKVLRLRKQDRAKRQEEEAILDLYLVALGEV-----
+----
+>WP_207932335.1/1-91 nucleoid-associated protein GapR [Brevundimonas goettingensis]
+-------------------MTDAAAP-----------------------------FDSSDVLTSAAQGRLRS
+IIERIERLEEDKAAIMADQKEVFAEAKGEGYDVKILRKVIRIRKQDKAKRQEEDAILDLYLSALGEI-----
+----
+>WP_013270389.1/1-91 MULTISPECIES: nucleoid-associated protein GapR [Brevundimonas]
+-------------------MADDASF-----------------------------DASPDVLNSAAQGRLRT
+IIERIERLEEDKAAVMEDMKEVFAEAKGEGYDVKILRKVIRIRKQDKAKRQEEDAILDLYLSALGEI-----
+----
+>YP_002518801.1/1-89 chromosome binding protein GapR [Caulobacter vibrioides NA1000]
+-------------------MADDAI-------------------------------PHTDVLNSTAQGQLKS
+IIERVERLEVEKAEIMEQIKEVYAEAKGNGFDVKVLKKVVRIRKQDRAKRQEEDAILDLYLSAIGEI-----
+----
+>WP_088912538.1/1-78 MULTISPECIES: DUF2312 domain-containing protein [Erythrobacter/Porphyrobacter group]
+-------------------MAD------------------------------------------ATDDRLRL
+LIERIERLEEEKKGIADDIRDVYMEAKAVGYDPKIMRQIVRLRKMKPDDRSEQDMLLETYKTALGMA-----
+----
+>WP_061274794.1/1-90 DUF2312 domain-containing protein [Komagataeibacter xylinus]
+M------------------LHDD------------------------------QDAREDHAVGGIAADRLRS
+IIERVERLEEERKALSGDIKDIFSEAKSTGFDVKVIRQIIRIRKQEPAEVEELETLLQIYKRALGM------
+----
+>WP_254248594.1/1-87 DUF2312 domain-containing protein [Loktanella salsilacus]
+-------------------MSDT---------------------------------PPNIQTENVAGEELRQ
+FIERYERLEAEKKDIVEGQKEIMAEAKGRGYDVKVLRKIIAMRKRDKDDLDEEEAVLEMYMAALGMS-----
+----
+>WP_173194630.1/1-87 DUF2312 domain-containing protein [Neoaquamicrobium sediminum]
+-------------------MADDIT---------------------------------AESAQTVAAGQLRA
+FIERVERLEEEKQTIADDIKEVFAEAKGTGFDTKAMRVIIRLRKKDANERQEEEAILDLYKAALGME-----
+----
+>WP_010912082.1/1-86 MULTISPECIES: DUF2312 domain-containing protein [Mesorhizobium]
+-------------------MADDIT----------------------------------ETSQTVAAGQLRA
+LIERIERLEEEKKTIADDIKEVFAEAKGTGFDTKAIRTIIRLRKKDQAERQEEDAILDLYMAALGMV-----
+----
+>QPA28075.1/1-86 DUF2312 domain-containing protein [Brucella anthropi]
+-------------------MSDDIT----------------------------------SEAQTIAVGQLRA
+FIERIERLEEEKKTIGDDIKEVYAELKGSGFDSKVVRTIIRLRKKEDHERQEEEAMLQLYMDALGMS-----
+----
+>PWU71690.1/1-86 DUF2312 domain-containing protein [Ochrobactrum sp. POC9]
+-------------------MSDDIT----------------------------------SEAQTIAVGQLRA
+FIERIERLEEEKKTIADDIKEVYAELKGSGFDSKVVRTIIRLRKKEDHERQEEEAMLQLYMDALGMG-----
+----
+>SUB13662.1/1-86 Uncharacterized protein conserved in bacteria (DUF2312) [Brucella intermedia]
+-------------------MSDDIT----------------------------------SEAQTIAVGQLRA
+FIERIERLEEEKKTIGDDIKEVYAELKGSGFDSKVVRTIIRLRKKEDHERQEEEAMLQLYMDALGMS-----
+----
+>HCP82172.1/1-85 MAG TPA: hypothetical protein DIT67_11480 [Octadecabacter sp.]
+-------------------MSDTS----------------------------------TDTSYRVTADELRQ
+FIERIERLDAEKKDLAEQQKEVMAEAKGRGYDTKVMRKVIALRKRDSDDIAEEEAVLEMYKEALGM------
+----
+>AYF01895.1/1-83 DUF2312 domain-containing protein [Paracoccus yeei]
+-------------------M-------------------------------------QDDNAYGIAAGELRQ
+FIEQFEQLEAEKKDVAERQKELMAEAKARGYDTKVMRKVIALRKRDKDDIAEEEAILEMYKAALGMV-----
+----
+>TWI26937.1/1-90 uncharacterized protein DUF2312, partial [Paracoccus sulfuroxidans]
+MDIQVSFD----------GMPDRLPPSTRSGDAAIMRAADRKRRKAAPVKETPEEKQQGDNAYGIAAAELRQ
+FIEQYEQLDAEKKDIADQQKELMGEAKA--------------------------------------------
+----
+>QFQ88310.1/1-83 DUF2312 domain-containing protein [Paracoccus kondratievae]
+-------------------M-------------------------------------QDDNAYGIAAGELRQ
+FIEQYEQLEAEKKDVTEQQKELMAEAKARGYDTKVMRKVIALRKRDKDDIAEEEAILEMYKAALGMV-----
+----
+>ANM05869.1/1-87 hypothetical protein AMC78_CH03821 [Rhizobium phaseoli]
+-------------------M---------------------------------------SDAHGVARDQLRA
+FIERIERLEEEKKTIADDIKDVYGEAKGMGFDTKILKKVVALRKKDEQERMEEEAILDTYLHALGMIES--P
+PEG-
+>ABC92302.1/1-87 hypothetical conserved protein [Rhizobium etli CFN 42]
+-------------------M---------------------------------------SDAHGVARDQLRA
+FIERIERLEEEKKTIADDIKDVYGEAKGMGFDTKILKKVVALRKKDEQERMEEEAILDTYLHALGMIEA--P
+PEG-
+>WP_003542853.1/1-87 MULTISPECIES: DUF2312 domain-containing protein [Rhizobium]
+-------------------M---------------------------------------SDAHGVARDQLRA
+FIERIERLEEEKKTIADDIKDVYGEAKGMGFDTKILKKVVALRKKDEQERMEEEAILDTYLLALGMIES--P
+PEG-
+>MEW9538306.1/1-85 DUF2312 domain-containing protein [Agrobacterium radiobacter]
+-------------------MMDD-----------------------------------TSTTETVAAAELRQ
+FIERVERLEEEKAAIQGDIKDVMGEAKGRGYDTKAIRTIIRLRKKDANERIEEETILQTYMAALGME-----
+----
+>APG92479.1/1-88 hypothetical protein SAMCFNEI73_Ch3215 [Sinorhizobium americanum]
+-------------------M---------------------------------------SDAQGFARDQLRA
+FIERIERLEEEKKTIADDIKDVYGEAKSMGFDTKILRKVISIRKQDADERMEQEAILDTYLQALGMVPA--A
+DEAA
+>ANL73622.1/1-87 hypothetical protein AMC83_CH03689 [Rhizobium phaseoli]
+-------------------M---------------------------------------SDAHGVARDQLRA
+FIERIERLEEEKKTIADDIKDVYGEAKGMGFDTKILKKVVALRKKDEQERMEEEAILDTYLHALGMIES--P
+PEG-
+>ANL42067.1/1-87 hypothetical protein AMC88_CH03722 [Rhizobium phaseoli]
+-------------------M---------------------------------------SDAHGVARDQLRA
+FIERIERLEEEKKTIADDIKDVYGEAKGMGFDTKILKKVVALRKKDEQERMEEEAILDTYLHALGMIES--P
+PEG-
+>WP_008533181.1/1-87 MULTISPECIES: DUF2312 domain-containing protein [Pseudomonadota]
+-------------------M---------------------------------------SDAHGVARDQLRA
+FIERIERLEEEKKTIADDIKDVYGEAKGMGFDTKILKKVVALRKKDEQERMEEEAILDTYLHALGMIEA--P
+PEG-
+>ETD85773.1/1-82 hypothetical protein U703_02420 [Rhodobacter capsulatus YW1]
+---------------------------------------------------------MSNDAYTVAADELRQ
+FIEQYEHLEAEKKDITEQQKDIMSEAKARGYDTKVIKKIIAMRKRDKNDLAEEDAILDVYKAALGMP-----
+----
+>ABG32361.1/1-100 conserved hypothetical protein [Roseobacter denitrificans OCh 114]
+M-----FGHETLQNTNEAKMTDP---------------------------------IEANETYKVTAGELRQ
+FVERIERLESEKKDIAEQIREVYAETKSRGYDTKCLRQIVNMRKRDKDDIAEEEAVLEMYKEALGM------
+----
+>WP_227538523.1/1-90 DUF2312 domain-containing protein [Tritonibacter mobilis]
+-------------------MKEDPD-----------------------------FREHNDASYRVTAGELRS
+FIERFERLEAEKKDIADQQKEVMAEAKARGYDTKVMRKVIALRKRDKDDIAEEEAVLEMYKEALGM------
+----
+>AAV94337.1/1-86 hypothetical protein SPO1033 [Ruegeria pomeroyi DSS-3]
+-------------------MD----------------------------------QPQSDANYGIAAGELRQ
+FIERIERLEQEKKDIADQQKEVMAEAKARGYDTKVMRKIVALRKRDKDDIAEEEAVLEMYKAALGMA-----
+----
+>WP_058272185.1/1-88 MULTISPECIES: DUF2312 domain-containing protein [Ruegeria]
+-------------------MEDVT-------------------------------EDQAAANYRVTAGELRQ
+FVERIERLDAEKKDLAEQQKEVMAEAKARGYDTKVMRKVIALRKRDKDDIAEEEAVLEMYKEALGM------
+----
+>UEX80649.1/1-88 DUF2312 domain-containing protein [Shinella zoogloeoides]
+-------------------M---------------------------------------SDAHGVARDQLRA
+FIERIERLEEEKKTIADDIKDVYGEAKGTGFDTKILRKVIQIRKQDKDERMEQEAILDTYLQALGMIEL--P
+PDAE
+>WP_003531048.1/1-90 MULTISPECIES: DUF2312 domain-containing protein [Sinorhizobium/Ensifer group]
+-------------------M---------------------------------------SDAHGIARDQLRA
+FIERIERLEEEKKTIADDIKDVYGEAKSMGFDAKILRKVISIRKQDADERMEQEAILDTYLQALGMIPAVEA
+EDAA
+>MEG8018264.1/1-88 DUF2312 domain-containing protein [Sphingomonas sp. LR55]
+-------------------MSDE--------------------------------RQHGMGGGAVAADELRL
+LIERAERLEEEKKGISDDIKDVMAEAKGRGYDPKAIRKILSIRKKKKEEYQEEEAILEVYLQALGMI-----
+----
+>ULO19134.1/1-95 DUF2312 domain-containing protein [Sulfitobacter sp. CB2047]
+-------------------MSDSATNPE-------------------------SQDAIGDATYRVTANELRQ
+FVERIERLDAEKKDLAEQQKEVMAEAKSRGYDTKVLRKIIALRKREADDIAEEEAVLEMYKEALGMS-----
+----
+>WP_176250162.1/1-94 MULTISPECIES: DUF2312 domain-containing protein [unclassified Sulfitobacter]
+-------------------MSDSATNPE-------------------------SADVVGDATYRVTANELRQ
+FVERIERLDSEKKDLAEQQKEVMAEAKSRGYDTKVLRKVIALRKRDKDDIAEEEAVLEMYKEALGM------
+----
+>POG51035.1/1-88 hypothetical protein BKP65_02200 [Wolbachia sp. wMel_KL]
+------------------------M----------------------------------EDTVKITAEELKG
+YIERIEKLEQEKRDVQDHIRDVYAKAADEGWDIKVMKQIIRLRKMDDDDREEQEILLDTYKRALGMSYE--E
+ELSE
