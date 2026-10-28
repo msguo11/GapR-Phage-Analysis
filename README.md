@@ -1,4 +1,4 @@
 # GapR-Phage-Analysis
-Python 3 code for "XX" by Monica Guo and Maddie Stodgell. Python code has been uploaded as Jupyter Notebook files.
+Python 3 code written by Monica Guo and Madeline B. Stodgell for "XX" by Maria A. Schumacher, Xinjue Wei, Tara M. Young, Madeline B. Stodgell, Lucy Kwiatkowski, Katie Leung, Ryo Kawamura, Raul Salinas, Sunny Yadav, John F. Marko, and Monica S. Guo. Python code has been uploaded as Jupyter Notebook files.
 
-Please contact Monica at msguo@uw.edu for any questions regarding the code in the paper.
+Please contact Monica at msguo@uw.edu for any questions regarding this code.
